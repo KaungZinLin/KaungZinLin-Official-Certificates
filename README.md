@@ -27,3 +27,34 @@ A list of all of my certificates.
 ![iOSAndSwift](https://github.com/user-attachments/assets/45731e89-5437-4f58-a1e2-4c9846cc1470)
 
 ## From Udemy (Others)
+### DaVinci Resolve 2022 - The Complete Video Editing Course
+![DaVinciResolve](https://github.com/user-attachments/assets/2b3d562f-c8d5-435a-a847-5c0ae4fd21ef)
+
+## From KMD
+### Advanced Software Engineering
+![KMD-AdvancedSoftwareEngineering-1](https://github.com/user-attachments/assets/1859bf09-632c-40e7-b32c-2a687423a701)
+
+### Basic Software Engineering
+![KMD-BasicSoftwareEngineering-1](https://github.com/user-attachments/assets/249ee056-be8f-4d09-b4c5-9859361ad551)
+
+### Python
+![KMD-AdvancedPython-1](https://github.com/user-attachments/assets/5c8dcfbb-c91d-4030-9861-95a698f3b729)
+
+## From Skillshare
+### YouTube Success: Script, Shoot & Edit with MKBHD
+![YouTube-Success-Skillshare-Certificates-1](https://github.com/user-attachments/assets/0f8aa5dc-61d7-44d3-aed7-59ec4925d22f)
+
+### Manim for Beginners: Create Stunning Animations With Code
+![Manim-1](https://github.com/user-attachments/assets/57bd603c-3aba-48c1-967e-ace64e0c5747)
+
+### Stop Wrestling With Canva: 50+ Canva Tips and Tricks, and Keyboard Shortcuts.
+![Canva-Skillshare-Certificate-1](https://github.com/user-attachments/assets/8398cb1f-47bd-48b8-937c-34f71702a3f4)
+
+
+
+
+
+
+
+
+
