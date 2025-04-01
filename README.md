@@ -1,6 +1,5 @@
 # My Certificates
-A list of all of my certificates.
-***PDF versions of my certificates are available in “Releases” as well as a PDF that includes all certificates.***
+A list of all of my certificates.<br>*PDF versions of my certificates are available in “Releases” as well as a PDF that includes all certificates.*
 
 ## Most Recent
 ### CS50 Cybersecurity: CS50's Introduction to Cybersecurity
