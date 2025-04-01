@@ -1,5 +1,5 @@
 # My Certificates
-📔 A list of all of my certificates
+A list of all of my certificates.
 
 ## Most Recent
 ### CS50 Cybersecurity: CS50's Introduction to Cybersecurity
@@ -26,3 +26,4 @@
 ### iOS & Swift - iOS & Swift - The Complete iOS App Development Bootcamp
 ![iOSAndSwift](https://github.com/user-attachments/assets/45731e89-5437-4f58-a1e2-4c9846cc1470)
 
+## From Udemy (Others)
