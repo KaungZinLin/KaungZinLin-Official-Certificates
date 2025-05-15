@@ -2,6 +2,9 @@
 A list of all of my certificates.<br><br>*PDF versions of my certificates are available in “Releases” as well as a PDF that includes all certificates.*
 
 ## Most Recent
+### CS50 for Lawyers: CS50's Computer Science for Lawyers
+![CS50L](https://github.com/user-attachments/assets/0ae20e59-8910-4d69-a568-293583bb5d26)
+
 ### CS50 AI: CS50's Introduction to Artifical Intelligence with Python
 ![CS50AI](https://github.com/user-attachments/assets/8083a87b-2414-4803-b567-d18e8748a9ff)
 
